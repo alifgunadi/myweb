@@ -1,0 +1,29 @@
+.home {
+    background-color: #EDE1D3;
+    
+}
+
+.introduce {
+    background-color: #ffffff;
+    font-family: century gothic;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    color: #A99176;
+}
+
+.job {
+    font-size: 45px;
+    font-family: century gothic;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #CEA67C;
+
+}

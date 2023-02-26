@@ -1,0 +1,22 @@
+.about {
+    background-color: white;
+    font-family: century gothic;
+    padding: 5px 20px;
+    color: #A99176;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.item {
+    margin-top: 50px;
+    list-style: none;
+}
+
+.special {
+    color: #CEA67C;
+}

@@ -1,0 +1,22 @@
+.contact {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: century gothic;
+    color: #A99176;
+    padding: 5px 20px;
+    
+}
+
+.socialMedia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.profil {
+    margin: 20px 2px;
+}
